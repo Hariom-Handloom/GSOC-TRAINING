@@ -1,7 +1,6 @@
 //Create a class Shape that demonstrates encapsulation by having protected
 // data members area and perimeter. Define public member functions
-// computeArea(), computePerimeter(), and draw() in this class. Why are area and
-// perimeter kept as protected members instead of public?
+//trial
 
 #include <iostream>
 using namespace std;
